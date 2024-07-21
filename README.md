@@ -26,3 +26,7 @@ new game - "n"
 ## Best score (record)
 
 If an SD memory card is inserted in the device, the largest number of fruit eaten by the snake is stored on this memory. The record will still be visible after the power is restarted. If there is no SD card in the device - the record is reset after each power restart.
+
+## How to install a game from a .bin file?
+
+Open https://web.esphome.io/ in a browser that supports WebSerial (Google Chrome or Microsoft Edge). Click "Connect", select the appropriate port, click "Connect". Then click "Install", point to the snake-M5Cardputer.bin file and click "Install". Ready.
